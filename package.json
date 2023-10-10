@@ -1,0 +1,11 @@
+{
+  "name": "jktsouth",
+  "version": "1.0.0",
+  "description": "lamaran-kerja",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ade husni m",
+  "license": "ISC"
+}
